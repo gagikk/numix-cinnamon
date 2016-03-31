@@ -130,7 +130,7 @@
      id="layer1"
      transform="translate(0,-276)">
     <rect
-       style="fill:#d64937;fill-opacity:1;stroke:none"
+       style="fill:#0087BD;fill-opacity:1;stroke:none"
        id="rect2997"
        width="24"
        height="2"
@@ -138,7 +138,7 @@
        y="22"
        transform="translate(0,276)" />
     <rect
-       style="fill:#484848;fill-opacity:1;stroke:none"
+       style="fill:#000000;fill-opacity:.5;stroke:none"
        id="rect3039"
        width="24"
        height="22"
