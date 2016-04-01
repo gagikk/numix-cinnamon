@@ -211,7 +211,7 @@ StScrollBar StButton#hhandle:focus {
   -slider-active-border-color: transparent;
   -slider-border-width: 2px;
   -slider-handle-radius: 4px;
-  color: #dcdcdc;
+  color: rgba(255, 255, 255, 0.8);
   border-image: url("widget-assets/slider.svg") 9 6 8 8;
   border: 0 solid transparent;
   min-width: 15em;
@@ -227,7 +227,7 @@ StScrollBar StButton#hhandle:focus {
    ! Separator
    ===================================================================*/
 .separator {
-  background-color: rgba(255, 255, 255, 0.1);
+  background-color: rgba(0, 0, 0, 1);
   height: 1px;
 }
 
@@ -240,9 +240,9 @@ StScrollBar StButton#hhandle:focus {
 
 .popup-menu-boxpointer {
   padding: 0;
-  -arrow-background-color: rgba(0,0,0,0.8);
+  -arrow-background-color: rgba(16,16,16,0.8);
   -arrow-border-width: 1px;
-  -arrow-border-color: #000000;
+  -arrow-border-color: #080808;
   -arrow-border-radius: 2px;
   -arrow-base: 16px;
   -arrow-rise: 8px;
